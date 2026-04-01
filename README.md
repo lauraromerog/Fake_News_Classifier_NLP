@@ -34,6 +34,8 @@
 ├── testing_data_predicted.csv                 # Output from Notebook 1
 ├── testing_data_predicted_distilBERT.csv      # Output from Notebook 2
 │
+├── fake_news_nlp.pptx                         # PPT presentation Summary
+│
 └── README.md
 ```
 
