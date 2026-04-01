@@ -29,6 +29,7 @@ Binary NLP classifier that distinguishes **real** from **fake** news headlines u
 ├── testing_data.csv               # Unlabeled test set (label column = 2)
 ├── testing_data_predicted.csv     # ← Output: labels 2 replaced by 0/1
 ├── fake_news_classifier.ipynb     # Full pipeline notebook
+├── fake_news_nlp.ppt              # Project overview presentation
 └── README.md
 ```
 
